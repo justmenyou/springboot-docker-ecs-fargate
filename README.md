@@ -1,1 +1,1 @@
-# Geting start with Spring boot deploy to AWS ECS and Fargate
+# Getting Started with Amazon Elastic Container Service (Amazon ECS) using Fargate
